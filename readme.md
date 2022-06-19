@@ -1,5 +1,11 @@
 # Python Track Assessment
 
+# My Observation
+I noticed that the two last tests assertions were incorrect. 
+- 56 is not a prime number so the assertion should be false
+- 97 is a prime number so the assertion should be true
+Because of this, 2 of the 6 tests failed.
+
 ## Instructions
 
 This repo contains the accessment exercise for the Python Track
